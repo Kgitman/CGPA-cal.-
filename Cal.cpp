@@ -1,6 +1,9 @@
 #<iostream>
   //stream
   int main() {
+  float g;
+  float cal;
+  int list;
   cin>>n;
   }
 //don't know c++
