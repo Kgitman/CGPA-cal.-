@@ -1,9 +1,14 @@
 #<iostream>
+  using namespace std;
   //stream
-  int main() {
   float g;
   float cal;
   int list;
+void main() {
+
+int u, i;
+  cout<<"==========================================="
+
   cin>>n;
   }
 //don't know c++
