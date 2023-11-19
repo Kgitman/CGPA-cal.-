@@ -8,7 +8,8 @@ void main() {
 
 int u, i;
   cout<<"==========================================="
-
+  cout<<"this is the cgpa calculator"
+  cout<<"==========================================="
   cin>>n;
   }
 //don't know c++
