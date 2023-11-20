@@ -7,10 +7,11 @@
 void main() {
 
 int u, i;
-  cout<<"==========================================="
-  cout<<"this is the cgpa calculator"
-  cout<<"==========================================="
-  cin>>n;
+  cout<<"==========================================="<<endl;
+  cout<<"this is the cgpa calculator"<<endl;
+  cout<<"==========================================="<<endl;
+  cout<<" CGPA CALCULATOR "<<endl;
+  cin>>u;
   }
 //don't know c++
 //learn language fast
