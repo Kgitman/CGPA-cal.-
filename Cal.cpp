@@ -13,6 +13,10 @@ int u, i;
   cout<<" CGPA CALCULATOR "<<endl;
   cin>>u;
   }
+float g() 
+{
+  int i;
+}
 //don't know c++
 //learn language fast
 //feeling doing nothing for...... 
