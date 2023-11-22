@@ -16,6 +16,9 @@ int u, i;
 float g() 
 {
   int i;
+  int crh[7],tcr = 0;
+  float gp=0.0, gpa;
+  cout<<" enter number of subject "<<endl;
 }
 //don't know c++
 //learn language fast
